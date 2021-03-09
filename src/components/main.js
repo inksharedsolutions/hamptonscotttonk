@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'gatsby';
-import icon from '../assets/img/author/Author Photo.png';
+import icon from '../assets/img/author/AuthorPhoto.png';
 
 const main = () => {
 	return (

@@ -1,7 +1,7 @@
 import React from 'react'
 import Layout from "../components/layout"
 import Banner from "../components/banner"
-import icon from '../assets/img/author/Author Photo.png'
+import icon from '../assets/img/author/AuthorPhoto.png'
 import { Helmet } from "react-helmet"
 
 
