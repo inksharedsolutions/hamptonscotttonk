@@ -77,7 +77,7 @@ const abouttheauthor= (props) =>{
 
 								<nav className="booklinkBlocks">
 									<span>Paperback :</span>
-									<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Gods-Opportunity-Expanded-Reuniting-Evangelizing-ebook/dp/B08R81527S/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1609168293&sr=8-1">Amazon</a></li>
+									<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/Gods-Opportunity-Expanded-Reuniting-Evangelizing/dp/1648953042/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1609168293&sr=8-1">Amazon</a></li>
 									<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/gods-opportunity-revised-and-expanded-edition-hampton-scott-tonk/1138517724?ean=9781648953040">Barnes & Noble </a></li>
 									<li><a rel="noopener noreferrer" target="_blank" href="https://www.booksamillion.com/p/Gods-Opportunity-Revised-Expanded/Hampton-Scott-Tonk/9781648953040?id=8049069540563&_ga=2.191972778.1023475077.1615324156-2145380449.1604906972#">Books A Million</a></li>
 								</nav>

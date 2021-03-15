@@ -75,7 +75,7 @@ const abouttheauthor= (props) =>{
 								</p>
 
 								<p style={{textAlign: 'justify'}}>
-								Simultaneously – since 1959 - he was also fascinated by the Roman Catholic Church, into which he was received on December 8 of 2017, the Solemnity of the Immaculate Conception of the Blessed Virgin Mary, Mother of Our Lord Jesus Christ and Patron Saint of the United States of America.
+								Simultaneously, he was also fascinated by the Roman Catholic Church, into which he was received in December of 2017.
 								</p>
 
 								<p style={{textAlign: 'justify'}}>
@@ -87,15 +87,15 @@ const abouttheauthor= (props) =>{
 								</p>
 
 								<p style={{textAlign: 'justify'}}>
-								His third book will be entitled How I Became Successful in Business and in Life – and Why My Failures, Mistakes, and Experiences of Being Fired Were the Best Things That Ever Happened to Me.
+								He is also the author of a forthcoming book entitled YES, LORD!  A Conversion Story.
 								</p>
 
 								<p style={{textAlign: 'justify'}}>
-								He is a listee in the 2019-2020 edition of Who’s Who in America.  The press release on the Google search engine can be found using the link https://www.24-7pressrelease.com/press-release/465399/hampton-tonk-celebrated-for-dedication-to-the-fields-of-business-and-ministry.  
+								He is a listee in the 2019-2020 edition of Who’s Who in America.  
 								</p>
 
 								<p style={{textAlign: 'justify'}}>
-								He was born in St. Louis, lived in the Chicago area for most of his life and has two sons, Seth and Noah.  After a long career in Sales and as an Episcopal priest, business executive, entrepreneur, and management consultant, he now lives in the Fort Myers, Florida area.  He is also a grateful veteran of service in the United States Army and loves to sing karaoke as an amateur and professionally.
+								He was born in St. Louis, lived in the Chicago area for most of his life and has two sons, Seth and Noah.  After a long career in Sales and as an Episcopal priest, business executive, entrepreneur, and management consultant, he now lives in the Fort Myers, Florida area.  He is also a grateful veteran of service in the United States Army and loves to sing karaoke.
 								</p>
 
 								<p style={{textAlign: 'justify'}}>

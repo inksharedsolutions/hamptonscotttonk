@@ -40,7 +40,7 @@ const Pp = () =>{
 	return(
 		<>
 		 	<Layout>
-		 		<Helmet title="Privacy Policy | Stephen M. Ringler" />
+		 		<Helmet title="Privacy Policy | Hampton Scott Tonk" />
 	 			<Banner bannerContext={bannerText} />
 
 	 			<div className="container">
