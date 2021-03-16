@@ -38,7 +38,7 @@ const TaC = () =>{
 	return(
 	 	<>
 	 		<Layout>
-				 <Helmet title="Terms and Conditions | Stephen M. Ringler" />
+				 <Helmet title="Terms and Conditions | Hampton Scott Tonk" />
 	 			<Banner bannerContext={bannerText} />
 	 				<div className="container">
 						<div id="terms-and-conditions-content">

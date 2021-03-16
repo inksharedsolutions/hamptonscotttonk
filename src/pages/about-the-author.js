@@ -96,7 +96,7 @@ const abouttheauthor= (props) =>{
 								</p>
 
 								<p style={{textAlign: 'justify'}}>
-								He is a listee in the 2019-2020 edition of Who’s Who in America.  The press release on the Google search engine can be found using the link https://www.24-7pressrelease.com/press-release/465399/hampton-tonk-celebrated-for-dedication-to-the-fields-of-business-and-ministry.  
+								He is a listee in the 2019-2020 edition of Who’s Who in America.  The press release on the Google search engine can be found using the link <a href="https://www.24-7pressrelease.com/press-release/465399/hampton-tonk-celebrated-for-dedication-to-the-fields-of-business-and-ministry" target="_blank">https://www.24-7pressrelease.com/press-release/465399/hampton-tonk-celebrated-for-dedication-to-the-fields-of-business-and-ministry</a>.  
 								</p>
 
 								<p style={{textAlign: 'justify'}}>
