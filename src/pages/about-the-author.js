@@ -92,7 +92,7 @@ const abouttheauthor= (props) =>{
 								</p>
 
 								<p style={{textAlign: 'justify'}}>
-								His third book will be entitled <Link to="/books/#philosophical-poetry">How I Became Successful in Business and in Life – and Why My Failures, Mistakes, and Experiences of Being Fired Were the Best Things That Ever Happened to Me.</Link>
+								His third book will be entitled How I Became Successful in Business and in Life – and Why My Failures, Mistakes, and Experiences of Being Fired Were the Best Things That Ever Happened to Me.
 								</p>
 
 								<p style={{textAlign: 'justify'}}>
