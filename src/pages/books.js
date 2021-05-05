@@ -98,7 +98,7 @@ const abouttheauthor= (props) =>{
 								<section className="contentBook">
 
 									<div className="title-wrapper">
-										<h1>How I Became Sucessfull in Business Life</h1>
+										<h1>How I Succeeded in Business and in life</h1>
 										<p></p>
 									</div>
 
