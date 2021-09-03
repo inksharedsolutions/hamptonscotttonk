@@ -15,7 +15,7 @@ const IndexPage = () => {
 			<span className="banr-tagline-fx">Hampton Scott Tonk</span>
 			<h1 className="banr-header-fx">
 				<span className="banr-spn-2">It's God's time. It's Kingdom's time. It's the fullness of time. It's</span> 
-				<span className="banr-spn-highlight">God's Oppotunity!</span>
+				<span className="banr-spn-highlight">God's Opportunity!</span>
 				
 				<Link
 					key=""
