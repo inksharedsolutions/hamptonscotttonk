@@ -103,7 +103,7 @@ const abouttheauthor= (props) =>{
 									</div>
 
 									<p>
-									This is the story about how one man unexpectedly went from paycheck-to-paycheck Joe Lunch-bucket to business, salesperson, "C" level executive, entrepreneur, publis speaker, encourage, investor, and philanthropist - all on a shoestring.
+									This is the story about how one man unexpectedly went from paycheck-to-paycheck Joe Lunch-bucket to businessman, salesperson, "C" level executive, entrepreneur, public speaker, encourager, investor, and philanthropist - all on a shoestring.
 									</p>
 
 								</section>
@@ -141,7 +141,7 @@ const abouttheauthor= (props) =>{
 									</div>
 
 									<p>
-									As I sat in the Church of the Holy Cross of St. Leo Benedictine Abbey in St. Leo, Florida, in the late Spring of 2019 comtemplating God and all the wonderful fellow Christians - boon companions along the way - fellow pilgrims and wayfarers - having had the huge blessing and privilege of having experienced literally every Christian tradition from the inside - not to mention my beloved Jews for over 60 yesrs - tears streamed down my face, and I began to sob, my body shaking.
+									As I sat in the Church of the Holy Cross of St. Leo Benedictine Abbey in St. Leo, Florida, in the late Spring of 2019 contemplating God and all the wonderful fellow Christians - boon companions along the way - fellow pilgrims and wayfarers - having had the huge blessing and privilege of having experienced literally every Christian tradition from the inside - not to mention my beloved Jews for over 60 yesrs - tears streamed down my face, and I began to sob, my body shaking.
 									</p>
 
 									<p>
@@ -150,12 +150,12 @@ const abouttheauthor= (props) =>{
 
 
 									<p>
-									Yes, it was a long, long journey. Do I regret its legnth? Absolutely not! For He led, and I, a sinner, followed - and all the while I said, YES, LORD!
+									Yes, it was a long, long journey. Do I regret its length? Absolutely not! For He led, and I, a sinner, followed - and all the while I said, YES, LORD!
 									</p>
 
 
 									<p>
-									Did I fully learned is htat life with God is and adventure. Where and how it will all end, I cannot say. But according to God's Word it ends gloriously - with Satan and Evil destroyed and the world renewed and restored into a rich and pure and innocent Garden of Eden.
+									What I learned is that life with God is and adventure. Where and how it will all end, I cannot say. But according to God's Word it ends gloriously - with Satan and Evil destroyed and the world renewed and restored into a rich and pure and innocent Garden of Eden.
 									</p>
 
 
@@ -190,7 +190,7 @@ const abouttheauthor= (props) =>{
 
 
 									<p>
-									YES, LORD! AMEN! Come, Lord Jesus! Hallelujah
+									YES, LORD! AMEN! Come, Lord Jesus! Hallelujah!
 									</p>
 
 
