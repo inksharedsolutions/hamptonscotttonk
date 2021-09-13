@@ -155,7 +155,7 @@ const abouttheauthor= (props) =>{
 
 
 									<p>
-									What I learned is that life with God is and adventure. Where and how it will all end, I cannot say. But according to God's Word it ends gloriously - with Satan and Evil destroyed and the world renewed and restored into a rich and pure and innocent Garden of Eden.
+									What I learned is that life with God is an adventure. Where and how it will all end, I cannot say. But according to God's Word it ends gloriously - with Satan and Evil destroyed and the world renewed and restored into a rich and pure and innocent Garden of Eden.
 									</p>
 
 
