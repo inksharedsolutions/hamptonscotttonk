@@ -175,7 +175,7 @@ const abouttheauthor= (props) =>{
 
 
 									<p>
-									In that Day terror will seize the wicked, and in that Day the rigteous will rejoice at His Coming.
+									In that Day terror will seize the wicked, and in that Day the righteous will rejoice at His Coming.
 									</p>
 
 
