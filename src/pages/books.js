@@ -32,7 +32,7 @@ const abouttheauthor= (props) =>{
 
 			<main className="wrapperMain">
 				<div className='container'>
-						<div className="columns" id="adult-milkshake">
+						<div className="columns" id="gods-opportunity">
 						
 							<div className="column">
 								<div className="bookImgContainer">
@@ -83,10 +83,27 @@ const abouttheauthor= (props) =>{
 								</nav>
 							</div>
 						</div>
+						
+						<div className='reviews-content'>
+							<hr />	
 
+							<blockquote>
+								<h3>
+									Barbara Bamberger Scott
+									<br/>
+									<span>
+										This book is written from the viewpoint that, ultimately,<br/>all Christians are historically related to one another, whether we like it or not.
+									</span>
+								</h3>
+								<br/>
+								Sincerely believing that all Christians can unite in a worldwide initiative to spread the gospel, author Tonk presents this thoughtful material as a basis for inspiration and study, pointing the way to that hopeful result. The wide-ranging work embarks with the essential question of whether and how God speaks to humankind even now. Tonk has collected numerous prophecies arising from gatherings or conferences of different groups of Christians, prophecies that speak words from God in "our" contemporary language.....
+								<a href='https://www.theusreview.com/reviews-1/Gods-Opportunity-by-Hampton-Scott-Tonk.html'>Read More</a>
+							</blockquote>
 
+							<hr />	
+						</div>
 
-						<div className="columns" id="philosophical-poetry">
+						<div className="columns" id="business">
 						
 							<div className="column">
 								<div className="bookImgContainer">
@@ -124,7 +141,7 @@ const abouttheauthor= (props) =>{
 							</div>
 						</div>
 
-						<div className="columns" id="noahs-other-ark">
+						<div className="columns" id="yes-lord">
 						
 							<div className="column">
 								<div className="bookImgContainer">

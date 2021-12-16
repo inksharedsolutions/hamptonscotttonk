@@ -51,9 +51,9 @@ const Mainbottom = () =>{
 
             
                     <div className="book-wrapper-slider">
-                        <Link to="/books/#adult-milkshake" className="img-link"><img src={Book1} alt="books"/></Link>
-						<Link to="/books/#philosophical-poetry" className="img-link"><img src={Book2} alt="books"/></Link>
-						<Link to="/books/#noahs-other-ark" className="img-link"><img src={Book3} alt="books"/></Link>
+                        <Link to="/books/#gods-opportunity" className="img-link"><img src={Book1} alt="books"/></Link>
+						<Link to="/books/#business" className="img-link"><img src={Book2} alt="books"/></Link>
+						<Link to="/books/#yes-lord" className="img-link"><img src={Book3} alt="books"/></Link>
 						{/* <Link to="/books/#fled-to-mexico" className="img-link"><img src={Book4} alt="books"/></Link> */}
                     </div>
 			 	</div>
